@@ -7,6 +7,10 @@
 
 Real-time DeFi chain metrics API. TVL, fees, volume, bridged TVL, staking, active addresses, and more across 6 major chains. Pay-per-call pricing at **$0.01/call** — no subscriptions, no rate limits on small volumes.
 
+## 简介
+
+实时DeFi链上指标API。覆盖6条链（ETH、SOL、BSC、BTC、TRON、ARB），82个指标。包括DefiLlama付费墙后数据。
+
 ---
 
 ## Architecture
